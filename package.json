@@ -22,6 +22,9 @@
     "easy",
     "fast"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "Christoffer Hansen",
   "license": "ISC",
   "bugs": {
