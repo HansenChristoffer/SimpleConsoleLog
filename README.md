@@ -10,7 +10,9 @@ Something to remember is, if you set the level for a DebugMsg to be 0 then it wi
 
 ### Default values
 Message  = Default debug message
+
 Level    = 0
+
 asObject = true
 
 ## Installation
