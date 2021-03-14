@@ -53,4 +53,4 @@ What is my current debug level: 2
 ```
 
 ## Author
-Christoffer Hansen - [Github](https://github.com/HansenChristoffer)
+Christoffer Hansen - [Github](https://github.com/HansenChristoffer)[npm](https://www.npmjs.com/~hansenchristoffer)
