@@ -1,6 +1,6 @@
 {
   "name": "simplistic-log",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "You're more than likely like most of us, using console.log to check output of certain code when we're trying to figure something out. If you use that way long enough you'll notice how lost you can get in all the console outputs. Simplistic-Log is suppose to help out in that regard. It'll inform you when and where the log was called along with what you've told it to write.",
   "main": "SimplisticLog.js",
   "scripts": {
